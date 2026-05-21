@@ -9,5 +9,6 @@ body{
 .cabecalho{
     background-color: #0065b3;
     display: flex;
+    justify-content: space-between;
 }
 #E52521
