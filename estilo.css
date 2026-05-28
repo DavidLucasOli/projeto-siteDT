@@ -4,12 +4,12 @@
 
 
 body{
-    background-color: #4CBB17;
-    color: #2D4B9A;
+    background-color: #5E6979;
+    color: #5e6979;
 
 }
 .cabecalho{
-    background-color: #ffffff;
+    background-color: gainsboro;
     background-color: ;
     display: flex;
     justify-content: space-between;
