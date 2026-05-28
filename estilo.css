@@ -9,7 +9,7 @@
 body{
     background-color: #2a415a;
     color: #2a415a;
-    
+    font-family: "Inter", sans-serif;
 
 }
 .cabecalho{
@@ -20,4 +20,3 @@ body{
     padding: 15px 25px;
     align-items: center;
 }
-font-family: "Inter", sans-serif;
