@@ -13,7 +13,6 @@ body{
 
 }
 .cabecalho{
-    background-color: gainsboro;
     background-color: #2a415a;
     display: flex;
     justify-content: space-between;
