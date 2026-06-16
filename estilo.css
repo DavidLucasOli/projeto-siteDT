@@ -21,5 +21,9 @@ body{
     align-items: center;
 }
 .cartao{
+    width: 260px;
+    height: 200px;
+}
+.cartao{
     width: 80%;
 }
