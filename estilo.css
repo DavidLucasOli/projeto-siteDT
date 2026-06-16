@@ -22,7 +22,8 @@ body{
 .cartao{
     width: 260px;
     height: 200px;
+    font-size: 18px;
 }
-.cartao{
+.cartao img{
     width: 80%;
 }
