@@ -45,5 +45,5 @@ main{
     position: absolute;
     border-radius: 12px;
     box-shadow: 0 6px 12px gainsboro;
-    blackface-visibility: hidden;
+    backface-visibility: hidden;
 }
