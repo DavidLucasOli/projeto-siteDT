@@ -38,6 +38,6 @@ main{
     transition: transform 0.8;
     transform-style: preserve-3d;
 }
-.cartao:houver .cartao-interno{
+.cartao:houver .cartao-verso{
     transform: rotateY(180deg);
 }
