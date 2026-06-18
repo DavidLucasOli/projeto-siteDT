@@ -35,4 +35,9 @@ main{
 }
 .cartao-frente{
     position: relative;
+    transition: transform 0.8;
+    transform-style: preserve-3d;
+}
+.cartao:houver .cartao-interno{
+    transform: rotateY(180deg);
 }
