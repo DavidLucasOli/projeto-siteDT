@@ -33,3 +33,6 @@ main{
     align-items: center;
     flex: 1;
 }
+.cartao-frente{
+    position: relative;
+}
