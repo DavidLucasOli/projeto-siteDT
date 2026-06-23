@@ -49,6 +49,6 @@ main{
 .cartao-frente, .cartao-verso{
     position: absolute;
     border-radius: 12px;
-    box-shadow: 0 18px 100px #102a43;
+    box-shadow: 0 18px 12px #102a43;
     backface-visibility: hidden;
 }
