@@ -52,3 +52,7 @@ main{
     box-shadow: 0 16px 13px #102a43;
     backface-visibility: hidden;
 }
+section{
+    display: flex;
+    gap: 16px;
+}
