@@ -51,4 +51,9 @@ main{
     border-radius: 12px;
     box-shadow: 0 16px 13px #102a43;
     backface-visibility: hidden;
+
+}
+section{
+    display: flex;
+    gap: 16px;
 }
